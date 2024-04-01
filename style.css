@@ -1,5 +1,6 @@
 :root{
     --livya: #ffb6c1; 
+    --branco:#ffffff;
 }
 
 
@@ -15,4 +16,13 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+section{
+    display: flex;
+    background-color:var(--branco) ;
+    border-radius: 30px;
+    /* border-style: double; */
+    /* border-width: 6px; */
+    /* border-color: black; */
+    border: dotted 10px black
 }
