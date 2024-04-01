@@ -16,22 +16,23 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-.intro}
-section{
+}
+
+.intro{
     display: flex;
     background-color:var(--branco) ;
     border-radius: 30px;
     /* border-style: double; */
     /* border-width: 6px; */
     /* border-color: black; */
-    border: dotted 10px black
-    margin:10px
+    border: dotted 10px black;
+    margin:10px;
     padding:10px;
 }
 .equip{
     display:grid;
-    grid-template-columns;33% 33% 33%;
-    background-colos:var(--branco);
-    tent-aling:center;
-    
+    grid-template-columns: 33% 33% 33%;
+    background-color:var(--branco);
+    text-align: center;
+
 }
