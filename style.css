@@ -16,7 +16,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-}
+.intro}
 section{
     display: flex;
     background-color:var(--branco) ;
@@ -25,4 +25,13 @@ section{
     /* border-width: 6px; */
     /* border-color: black; */
     border: dotted 10px black
+    margin:10px
+    padding:10px;
+}
+.equip{
+    display:grid;
+    grid-template-columns;33% 33% 33%;
+    background-colos:var(--branco);
+    tent-aling:center;
+    
 }
