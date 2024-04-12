@@ -32,7 +32,7 @@ header{
 .equipe{
     display:grid;
     grid-template-columns: 33% 33% 33%;
-    background-color:var(--branco);
+    background-color:var(--verde);
     text-align: center;
 
 }
