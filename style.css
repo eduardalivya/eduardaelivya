@@ -21,7 +21,7 @@ header{
 .intro{
     display: flex;
     background-color:var(--branco) ;
-    border-radius: 30px;
+    border-radius: 50px;
     /* border-style: double; */
     /* border-width: 10px; */
     /* border-color: black; */
