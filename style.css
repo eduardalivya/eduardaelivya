@@ -31,8 +31,8 @@ header{
 }
 .equipe{
     display:grid;
-    grid-template-columns: 50% 50% 50%;
-    grid-template-columns: 50% 50% 50%;
+    grid-template-columns: 70% 70% 70%;
+    grid-template-columns: 70% 70% 70%;
     background-color:var(--verde);
     text-align: center;
 
